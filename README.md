@@ -34,6 +34,8 @@ ________________________________________________________________________________
 
 ## Results:
 
+https://public.tableau.com/app/profile/jennifer.shulyak/viz/Dishwasher_Hunt/Final
+
 * Click on a brand to see it's stats! 
 * Click on a dishwasher to change the feature to compare with the prices! 
 
