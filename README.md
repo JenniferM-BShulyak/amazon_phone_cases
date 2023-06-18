@@ -34,7 +34,10 @@ ________________________________________________________________________________
 
 ## Results:
 
+* Click on a brand to see it's stats! 
+* Click on a dishwasher to change the feature to compare with the prices! 
 
+![TableauDash](TableauResources/TableauDash_dish.png)
 
 ________________________________________________________________________________________
 
